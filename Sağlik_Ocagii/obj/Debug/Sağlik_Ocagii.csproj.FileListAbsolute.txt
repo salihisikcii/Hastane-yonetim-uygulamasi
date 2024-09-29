@@ -1,0 +1,16 @@
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\bin\Debug\Sağlik_Ocagii.exe.config
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\bin\Debug\Sağlik_Ocagii.exe
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\bin\Debug\Sağlik_Ocagii.pdb
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.Form1.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.Properties.Resources.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.exe
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.pdb
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.sevkSorgulama.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.Doktor.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.Form2.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\Sağlik_Ocagii.dosysacek.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\WindowsFormsApp.Giris.resources
+C:\Users\salih\source\repos\Sağlik_Ocagii\Sağlik_Ocagii\obj\Debug\WindowsFormsApp.kayitol.resources
